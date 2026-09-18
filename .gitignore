@@ -29,3 +29,5 @@ tensorboard/
 
 # macOS AppleDouble metadata
 ._*
+config.bat
+node_modules
